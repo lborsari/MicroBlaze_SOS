@@ -1,2 +1,3 @@
-# MicroBlaze_SOS
-SOS Alarm created using the MicroBlaze soft core processor on Basys3 board with AMP2 PMOD.
+This repository includes all source and constraint files for the MicroBlaze SOS project. This repository is meant to be a location to easily view the work completed for this project; if the user wishes to run this, they should download all source and constraint files and add it to their own Vivado project. Please note, this project makes use of many AMD IP blocks. Thus, the user should download the source files and perform the necessary setup tasks to have the Vivado suite generate the HDL. This will not work outside of Vivado.
+
+For a more in depth description regarding this project, please visit my portfolio section using this link: https://leoborsariworks.weebly.com/microblaze-sos.html
